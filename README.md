@@ -11,12 +11,12 @@
 # Aborescence
 * index.html
 * README.md
-# css
+    css
 * body.css
 * checkbox.css
 * header.css
 
-# js
+    js
 * app.js
 * jquery.js
 * typed.min.js
