@@ -8,17 +8,4 @@
 * TypedJS
 * Jquery
 
-# Aborescence
-* index.html
-* README.md
-    css
-* body.css
-* checkbox.css
-* header.css
-
-    js
-* app.js
-* jquery.js
-* typed.min.js
-* typedtext.js
 
