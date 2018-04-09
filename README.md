@@ -4,12 +4,26 @@
 # Stack Technologique
 ### Front-End
 * HTML5
-    * Test
 * CSS3
 * JS
 * TypedJS
 * Jquery
 ### Back-end
 Aucuns
+
+# Arborescence
+* css
+    * body.css
+    * checkbox.css
+    * header.css
+* fonts
+    * Montserrat-Light.ttf
+* js
+    * app.js
+    * jquery.js
+    * typed.min.js
+    * typedtext.js
+* index.html
+* README.md
 
 
