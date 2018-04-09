@@ -9,17 +9,17 @@
 * Jquery
 
 # Aborescence
-css
-|--- body.css
-|--- checkbox.css
-|--- header.css
+*css
+*|--- body.css
+*|--- checkbox.css
+*|--- header.css
 
-js
-|--- app.js
-|--- jquery.js
-|--- typed.min.js
-|--- typedtext.js
+*js
+*|--- app.js
+*|--- jquery.js
+*|--- typed.min.js
+*|--- typedtext.js
 
-index.html
-README.md
+*index.html
+*README.md
 
